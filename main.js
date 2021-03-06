@@ -1,0 +1,13 @@
+console.log("This is my console project");
+    var first_name = "varad";
+    console.log(first_name);
+    var last_name = "joshi";
+    console.log(last_name);
+    var full_name = first_name.concat(last_name);
+    console.log(full_name);
+    var capital_name = "VARAD";
+    var making_lower_case = capital_name.toLowerCase();
+    console.log(making_lower_case);
+    var small_name = "varad";
+    var making_upper_case = small_name.toUpperCase();
+    console.log(making_upper_case);
